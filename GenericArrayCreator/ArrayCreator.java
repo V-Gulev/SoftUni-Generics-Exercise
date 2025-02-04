@@ -1,4 +1,4 @@
-package array_creator;
+package GenericArrayCreator;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
